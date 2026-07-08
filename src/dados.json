@@ -1,0 +1,17 @@
+{
+    "pessoa":
+    {
+        "nome": "Exemplo",
+        "idade": 19,
+        "hobbies": ["desenhar", "música"],
+        "eVivo" : true
+    },
+
+    "pessoa2":
+    {
+        "nome": "Exemplo",
+        "idade": 19,
+        "hobbies": ["desenhar", "música"],
+        "eVivo" : false
+    }
+}

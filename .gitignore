@@ -1,0 +1,9 @@
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+/output/
+*.o
+*.exe
+*.d
