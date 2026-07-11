@@ -66,7 +66,7 @@ void jsonIntoTxt(std::vector<std::string> datas)
             }
         }
         out.close();
-        std::cout << "dados.txt gerado dinamicamente com sucesso!\n";
+        std::cout << "dados.txt gerado xdd\n";
     }
     else{
         std::cout << "Unable to open file";
